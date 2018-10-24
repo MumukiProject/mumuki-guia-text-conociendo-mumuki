@@ -1,3 +1,3 @@
-Es necesario formalizar las ideas que han surgido al final del ejercicio anterior.
+Para formalizar las ideas que han surgido al final del ejercicio anterior completá los siguientes campos. Los datos que pedimos que formules a continuación es lo que consideramos “información mínima” para poder avanzar en la creación del juego, pero ¡que esto no haga que pierdas otra información valiosa que puedas haber recogido! Agregá a la ficha técnica tantas categorías y datos como te resulten útiles.
 
 > Completá la siguiente ficha con la "información mínima" para poder avanzar en la creación del juego.
