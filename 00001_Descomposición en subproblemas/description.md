@@ -4,4 +4,4 @@ Te proponemos la creación de un juego que convoque a 3 generaciones.
 
 ¿Qué preguntas podemos hacernos para descomponer nuestro problema? 
 
-> Completá los campos con los subproblemas que identificaste a modo de preguntas. No hace falta que tengan un orden en específico.
+> Registrá en una hoja, sin pensar en un orden específico, los subproblemas que identificaste a modo de preguntas. 
