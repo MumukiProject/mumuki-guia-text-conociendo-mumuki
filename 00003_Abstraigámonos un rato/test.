@@ -1,11 +1,4 @@
-- name: Se completo la tematica
+- name: Se completo la ficha del juego
   keys:
     theme:
       match: .*
-    game_elements:
-      match: .*
-    space:
-      match: .*
-    number_of_players:
-      match: .*
-    
