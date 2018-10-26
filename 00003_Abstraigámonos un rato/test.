@@ -1,4 +1,4 @@
 - name: Se completo la ficha del juego
   keys:
-    tematica:
+    theme:
       match: .*

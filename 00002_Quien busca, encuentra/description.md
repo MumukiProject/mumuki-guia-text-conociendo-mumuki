@@ -5,10 +5,10 @@ Para eso vamos a construir una tabla comparativa para poder realizar la búsqued
 * Las filas serán las categorías o aspectos a comparar;
 * y las columnas, los elementos sujetos a comparación.
 
-En este caso, proponemos que las columnas sean:
+En este caso, proponemos columnas para que pongas:
 
-* Una para las preguntas;
-* las siguientes tres para la Generación 1, 2 y 3, y que trasladen las preguntas identificadas en el punto anterior a cada una de las filas. Las preguntas pueden tener más de una respuesta.
-* la última columna para que respondas a la pregunta ¿qué elementos en común encontras entre las distintas generaciones?.
+* Las preguntas formuladas en el ejercicio anterior;
+* las respuestas para cada una de las tres generaciones. Las preguntas pueden tener más de una respuesta.
+* ¿qué elementos en común encontras entre las distintas generaciones?.
 
 > Completá la tabla ajustando las respuestas a cada generación.

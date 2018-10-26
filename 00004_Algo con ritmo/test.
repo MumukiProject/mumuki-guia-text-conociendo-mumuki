@@ -1,4 +1,4 @@
 - name: Se completaron las instrucciones
   keys:
-    nombre_del_juego:
+    :
       match: .*
