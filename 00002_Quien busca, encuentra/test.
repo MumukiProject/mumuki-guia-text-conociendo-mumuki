@@ -1,4 +1,4 @@
 - name: Se completó la tabla
   keys:
-    first_question:
+    primera_pregunta:
       match: .*
