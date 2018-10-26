@@ -1,0 +1,17 @@
+- name: Se completo la tematica
+  keys:
+    theme:
+      match: .*
+      
+- name: Se completaron los materiales del juego  
+    game_elements
+      match: .*
+
+- name: Se completo el espacio
+    space:
+      match: .*
+      
+- name: Se completo la cantidad de jugadores
+    number_of_players:
+      match: .*
+    
